@@ -1,0 +1,13 @@
+body {
+    background-color: #c5d1bc;
+    color: #fff;
+    margin: 100;
+}
+
+#tester {
+    width: 90px;
+    height: 70px;
+    background-color:#9363a2;
+    opacity: 60%;
+
+}
